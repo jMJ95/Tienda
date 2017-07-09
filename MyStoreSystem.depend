@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443742750 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\mystoresystem\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
